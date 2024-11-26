@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+    font-size: 45px;
+    color: blue;
+}
+
+.products-list {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
